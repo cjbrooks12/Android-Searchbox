@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_viewAsList"
+        android:title="View As List"
+        android:icon="@drawable/sb_ic_viewaslist"/>
+    <item
+        android:id="@+id/menu_viewAsGrid"
+        android:title="View As Grid"
+        android:icon="@drawable/sb_ic_viewasgrid"/>
+</menu>
